@@ -16,7 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
 ![Scrapy](https://img.shields.io/badge/Scrapy-black?style=flat&logo=scrapy)
 ![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django)
-![Django REST](https://img.shields.io/badge/Django%20Rest%20Framework-black?style=flat&logo=django-rest-framework)
+![Django REST Framework](https://img.shields.io/badge/Django%20Rest-black?style=flat&logo=django-rest-framework)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=redux)
 ![Node](https://img.shields.io/badge/NodeJS-black?style=flat&logo=node.js)
