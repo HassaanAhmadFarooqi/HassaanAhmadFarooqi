@@ -5,8 +5,9 @@
 [![Linkedin: Hassaan Ahmad Farooqi](https://img.shields.io/badge/Hassan%20Ahmad%20Farooqi-blue?style=plastic&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/hassaan-ahmad-farooqi-345418b7/)
 [![Mail: hassaan.a.farooqi@gmail.com](https://img.shields.io/badge/-hassaan.a.farooqi%40gmail.com-red?style=plastic&logo=gmail&logoColor=red&labelColor=white)](mailto:hassaan.a.farooqi@gmail.com)
 
-- :computer: I'm a Software Developer working at Arbisoft Lahore :pakistan:, with over 2.5 years experience, in web development, scraping and automation projects.
-- :man_student: I'm a Computer Engineering graduate of batch 2013-2017 from University of Engineering & Technology, Lahore.
+- :office: Software Developer working at Arbisoft Lahore :pakistan:.
+- :computer: Over 2.5 years experience, in web development (both backed and frontend), web scraping and automation projects.
+- :man_student: Computer Engineering graduate (batch 2013-2017) from University of Engineering & Technology, Lahore.
 
 #### Skills
 
@@ -15,7 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
 ![Scrapy](https://img.shields.io/badge/Scrapy-black?style=flat&logo=scrapy)
 ![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django)
-![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-black?style=flat&logo=django-rest-framework)
+![Django REST](https://img.shields.io/badge/Django%20Rest%20Framework-black?style=flat&logo=django-rest-framework)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=redux)
 ![Node](https://img.shields.io/badge/NodeJS-black?style=flat&logo=node.js)
