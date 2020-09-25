@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Hassaan!
 
 [![GitHub: Hassaan Ahmad Farooqi](https://img.shields.io/github/followers/HassaanAhmadFarooqi?label=Follow&style=social)](https://github.com/HassaanAhmadFarooqi)
-[![Profile Views](https://api.freemotion-llc.com/api/github/v1/profile-views?username=HassaanAhmadFarooqi)](https://github.com/HassaanAhmadFarooqi)
 [![Linkedin: Hassaan Ahmad Farooqi](https://img.shields.io/badge/Hassan%20Ahmad%20Farooqi-blue?style=plastic&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/hassaan-ahmad-farooqi-345418b7/)
 [![Mail: hassaan.a.farooqi@gmail.com](https://img.shields.io/badge/-hassaan.a.farooqi%40gmail.com-red?style=plastic&logo=gmail&logoColor=red&labelColor=white)](mailto:hassaan.a.farooqi@gmail.com)
 
