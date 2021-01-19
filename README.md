@@ -4,8 +4,8 @@
 [![Linkedin: Hassaan Ahmad Farooqi](https://img.shields.io/badge/Hassan%20Ahmad%20Farooqi-blue?style=plastic&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/hassaan-ahmad-farooqi-345418b7/)
 [![Mail: hassaan.a.farooqi@gmail.com](https://img.shields.io/badge/-hassaan.a.farooqi%40gmail.com-red?style=plastic&logo=gmail&logoColor=red&labelColor=white)](mailto:hassaan.a.farooqi@gmail.com)
 
-- :office: Software Developer working at Arbisoft Lahore :pakistan:.
-- :computer: Over 2.5 years experience, in web development (both backed and frontend), web scraping and automation projects.
+- :office: Senior Software Engineer working at Arbisoft Lahore :pakistan:.
+- :computer: Over 3 years experience, in web development (both backed and frontend), web scraping and automation projects.
 - :man_student: Computer Engineering graduate (batch 2013-2017) from University of Engineering & Technology, Lahore.
 
 #### Skills
