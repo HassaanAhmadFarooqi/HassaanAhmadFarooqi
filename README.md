@@ -4,8 +4,8 @@
 [![Linkedin: Hassaan Ahmad Farooqi](https://img.shields.io/badge/Hassan%20Ahmad%20Farooqi-blue?style=plastic&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/hassaan-ahmad-farooqi-345418b7/)
 [![Mail: hassaan.a.farooqi@gmail.com](https://img.shields.io/badge/-hassaan.a.farooqi%40gmail.com-red?style=plastic&logo=gmail&logoColor=red&labelColor=white)](mailto:hassaan.a.farooqi@gmail.com)
 
-- :office: Senior Software Engineer working at Arbisoft Lahore :pakistan:.
-- :computer: Over 3 years experience, in web development (both backed and frontend), web scraping and automation projects.
+- :office: Principal Software Engineer working at Arbisoft Lahore :pakistan:.
+- :computer: Over 6 years experience, in web development (both backed and frontend), web scraping and automation projects.
 - :man_student: Computer Engineering graduate (batch 2013-2017) from University of Engineering & Technology, Lahore.
 
 #### Skills
@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=redux)
 ![Node](https://img.shields.io/badge/NodeJS-black?style=flat&logo=node.js)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-black?style=flat&logo=WebdriverIO)
 ![Protractor](https://img.shields.io/badge/Protractor-black?style=flat&logo=protractor)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
 
@@ -33,6 +34,7 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm)
 ![WebStorm](https://img.shields.io/badge/WebStorm-black?style=flat&logo=webstorm)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellijidea)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
 
 
