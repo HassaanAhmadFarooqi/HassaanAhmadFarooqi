@@ -5,7 +5,7 @@
 [![Mail: hassaan.a.farooqi@gmail.com](https://img.shields.io/badge/-hassaan.a.farooqi%40gmail.com-red?style=plastic&logo=gmail&logoColor=red&labelColor=white)](mailto:hassaan.a.farooqi@gmail.com)
 
 - :office: Principal Software Engineer working at Arbisoft Lahore :pakistan:.
-- :computer: Over 6 years experience, in web development (both backed and frontend), web scraping and automation projects.
+- :computer: Over 6.5 years experience, in web development (both backed and frontend), web scraping and automation projects.
 - :man_student: Computer Engineering graduate (batch 2013-2017) from University of Engineering & Technology, Lahore.
 
 #### Skills
